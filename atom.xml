@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-22T05:41:26.692Z</updated>
+  <updated>2018-10-23T07:08:07.557Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>What it is </title>
+    <link href="http://yoursite.com/2018/10/22/What-it-is/"/>
+    <id>http://yoursite.com/2018/10/22/What-it-is/</id>
+    <published>2018-10-23T06:25:32.000Z</published>
+    <updated>2018-10-23T07:08:07.557Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-it-is"><a href="#What-it-is" class="headerlink" title="What it is"></a>What it is</h1><p><font size="5"><br><strong>Time flows so fast that almost we miss our best period of life unconsciously</strong><br>![][1]<br>[1]:<a href="http://shaozhuqing.com/wp-content/uploads/2011/08/ac7fe728071e3e99.jpg" target="_blank" rel="noopener">http://shaozhuqing.com/wp-content/uploads/2011/08/ac7fe728071e3e99.jpg</a></font></p><p></p><p><strong>How you prove your existence ever<br><br></strong></p><p>##</p><p></p><p><br><bre><strong>A man with his story and works<br><br></strong></bre></p><p></p><p><strong>To remind<br><br>To keep going<br><br>To love and to be loved</strong></p><p>![][2]<br>[2]:<a href="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/04/0A/ChMkJlphjUCIRJh_AADHUDwq-8MAAkNTwNuhE8AAMdo488.jpg" target="_blank" rel="noopener">https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/04/0A/ChMkJlphjUCIRJh_AADHUDwq-8MAAkNTwNuhE8AAMdo488.jpg</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;What-it-is&quot;&gt;&lt;a href=&quot;#What-it-is&quot; class=&quot;headerlink&quot; title=&quot;What it is&quot;&gt;&lt;/a&gt;What it is&lt;/h1&gt;&lt;p&gt;&lt;font size=&quot;5&quot;&gt;&lt;br&gt;&lt;strong&gt;Time flows 
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
